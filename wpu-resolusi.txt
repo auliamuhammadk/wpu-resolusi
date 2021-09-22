@@ -2,5 +2,5 @@ wpu resolusi
 1. fokus front end
 2. pengelolaan website
 3. membuat forum diskusi
-4. membuat merch shop
-5. kolaborasi dengan expert
+4. kolaborasi dengan expert
+5. membuat vlog
