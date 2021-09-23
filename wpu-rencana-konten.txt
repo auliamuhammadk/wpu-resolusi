@@ -3,6 +3,7 @@ rencana konten wpu
   # tutorial coding
   # tutorial aplikasi
     - view
+    - react
     - laravel
 - fundamental struktur data
 2. membuat video showcase
